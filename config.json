@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codethunder",
+    "prod_uri":"mysql://root:@localhost/codethunder",
+    "fb_url": "https://www.facebook.com/shashank.kumar.9279",
+    "tw_url": "https://www.twitter.com",
+    "gh_url": "https://www.github.com",
+    "blog_name": "Code Thunder",
+    "tag_line": "Blog for Beginners",
+    "gmail-user": "userEmailID",
+    "gmail-password": "Emailidpassword",
+    "about_text": "Hello ! My name is Shashank and here I am developing a blog based on python - flask framework. Hope this will boost my confidence on developing these kind project.",
+    "no_of_posts": 2,
+    "login_img": "login.svg",
+    "admin_user": "knight",
+    "admin_password": "123456789",
+    "upload_location": "C:\\Users\\Knight\\PycharmProjects\\blog-flask\\static"
+
+  }
+
+}
